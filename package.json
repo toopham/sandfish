@@ -1,0 +1,25 @@
+{
+  "name": "sandfish",
+  "version": "0.0.0",
+  "description": "Light time utility that is versatile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/toopham/sandfish"
+  },
+  "keywords": [
+    "time",
+    "hour",
+    "minute",
+    "second",
+    "month",
+    "year",
+    "clock",
+    "timezone."
+  ],
+  "author": "Tu Pham",
+  "license": "MIT"
+}
